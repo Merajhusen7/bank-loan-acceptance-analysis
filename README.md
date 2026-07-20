@@ -2,8 +2,9 @@
 
 An end-to-end data analysis project exploring which customer segments are most likely to accept a personal loan offer, using **Excel, SQL (PostgreSQL), and Power BI**.
 
-![Dashboard Preview]([screenshots/dashboard_overview.png](https://github.com/Merajhusen7/bank-loan-acceptance-analysis/blob/main/Page_1.png))
-![Dashboard Preview](screenshots/dashboard_overview.png)
+🔗 **Repository:** https://github.com/Merajhusen7/bank-loan-acceptance-analysis
+
+![Dashboard Overview](Page_1.png)
 
 ## Business Problem
 
@@ -46,7 +47,7 @@ Thera Bank ran a marketing campaign offering personal loans to its existing liab
 
 **Page 2 — Segment Analysis:** An Income × CD Account matrix (the project's core finding) with a conditional-formatting heatmap, plus a supporting breakdown by Family size.
 
-![Segment Analysis](screenshots/segment_analysis.png)
+![Segment Analysis](Page_2.png)
 
 ## Recommendation
 
@@ -58,7 +59,7 @@ Thera Bank's next campaign should prioritize customers earning **$100K+ who alre
 - `Bank_Personal_Loan_Modelling.xlsx` — cleaned dataset with Excel PivotTables
 - `dashboard.pbix` — Power BI dashboard file
 - `ledger_theme.json` — custom Power BI color theme used in the dashboard
-- `screenshots/` — dashboard preview images
+- `Page_1.png`, `Page_2.png` — dashboard screenshots
 
 ## What I'd Do With More Time
 
