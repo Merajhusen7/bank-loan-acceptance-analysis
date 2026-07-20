@@ -2,6 +2,7 @@
 
 An end-to-end data analysis project exploring which customer segments are most likely to accept a personal loan offer, using **Excel, SQL (PostgreSQL), and Power BI**.
 
+![Dashboard Preview]([screenshots/dashboard_overview.png](https://github.com/Merajhusen7/bank-loan-acceptance-analysis/blob/main/Page_1.png))
 ![Dashboard Preview](screenshots/dashboard_overview.png)
 
 ## Business Problem
